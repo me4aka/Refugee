@@ -1,0 +1,53 @@
+.navbar{
+  margin-bottom: 0;
+  background-color: #fff;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 2px;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a{
+  font-size: 12px;
+  color: #0089E6 !important;
+}
+.nav li {
+  color: #0089E6;
+}
+#contact{
+  border-top: 30px;
+}
+
+@media screen and (min-width: 768px) {
+
+	#modal-anmelden .modal-dialog  {width:300px;}
+
+}
+
+.logo{
+  color: #0089E6;
+}
+
+form label {
+    font-size: 12px;
+    color: grey;
+}
+
+#pass-no{
+  text-decoration: none;
+}
+
+#modal-reg, #modal-anmelden, #modal-sent{
+  padding-top: 30px;
+}
+
+.jumbotron{
+  height: 300px;
+}
+
+.modal-title{
+  color: grey;
+  }
